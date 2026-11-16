@@ -1,7 +1,9 @@
-<img width="1086" height="713" alt="image" src="https://github.com/user-attachments/assets/756ebd31-6fb6-475a-9788-8ee156afbb07" />
+<img alt="image" src="https://github.com/user-attachments/assets/756ebd31-6fb6-475a-9788-8ee156afbb07" />
 
 # Crashday Localization Toolkit
 **CDLocalKit** is a utility for managing localization in Crashday (1.x/Redline). The program is a C# recreation of an internal tool used by the developers back in 2005.
+
+This utility is not associated with Moonbyte Games or Replay Studios. This tool is a recreation with a large number of improvements.
 
 ## Features
 - English and Russian language support
